@@ -17,8 +17,8 @@ python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
 ```
 - test
 ```bash 
-python3
->>>from maachujdo import kusupraishchesaneebesh
+python
+>>> from shtaklatanemoosaizmuknesh import shtaklatanemoosaizmuknesh
 ```
 - or 
 ```python
