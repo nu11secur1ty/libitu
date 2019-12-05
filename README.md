@@ -1,4 +1,4 @@
-# Maachujdo
+# Shtaklatanemoosaizmuknesh
 ########################################
 #                                      #
 # For Kali Linux 2019.4 > Python 2.7.17#
