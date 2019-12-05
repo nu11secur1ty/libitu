@@ -1,4 +1,4 @@
-# Shtaklatanemoosaizmuknesh
+# Shtaklatanemoosaizmuknesh Python 2.7.17
 
 ![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)
 
