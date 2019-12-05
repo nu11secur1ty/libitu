@@ -112,5 +112,8 @@ This is the point of SSL, to prevent this kind of unauthorized snooping. To auth
 
 https://en.wikipedia.org/wiki/Transport_Layer_Security
 
+# understanding of `scapy`:
+[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/isakmp_dump.png)](https://scapy.readthedocs.io/en/latest/usage.html)
+
 # Have fun ;)
 
