@@ -50,6 +50,12 @@ pip uninstall shtaklatanemoosaizmuknesh
 
 -----------------------------------------------------------
 
+# NOTE!!!:
+`The dependencies are for Python3 but this module is using Python2 because I combined packages from Python 3 with Python 2. However, Python 2 can use packages from Python 3 without any problems when they are implementing in his own environment!`
+
+-----------------------------------------------------------------------------------
+
+
 # Understanding of Web Protocols - HTTP and HTTPS
 
 Do you know that 68% of internet users believe that current laws for protecting their rights are not good enough?
