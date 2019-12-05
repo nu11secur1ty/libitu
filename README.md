@@ -52,6 +52,11 @@ pip uninstall shtaklatanemoosaizmuknesh
 
 # NOTE!!!:
 `The dependencies are for Python3 but this module is using Python2 because I combined packages from Python 3 with Python 2. However, Python 2 can use packages from Python 3 without any problems when they are implementing in his own environment!`
+# WARNING!!!
+Do not use `pip` for this module, this is tested only on Kali Linux 2019.4. 
+This module is only for advanced users!
+
+BR ***nu11secur1ty***
 
 -----------------------------------------------------------------------------------
 
