@@ -13,7 +13,7 @@ pip3 install -r kosaka.txt
 ```
 - Installing the module "maachujdo"
 ```bash 
-python -m pip install -i https://test.pypi.org/simple/ maachujdo
+python -m pip install -i https://test.pypi.org/simple/ shtaklatanemoosaizmuknesh
 ```
 - test
 ```bash 
@@ -37,11 +37,11 @@ python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 
 # Uninstall the module
 ```bash
-pip uninstall maachujdo
+pip uninstall shtaklatanemoosaizmuknesh
 ```
 ---------------------------------------------------------
 - link:
-`https://test.pypi.org/project/maachujdo/`
+`https://test.pypi.org/project/shtaklatanemoosaizmuknesh/`
 
 
 -----------------------------------------------------------
