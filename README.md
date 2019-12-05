@@ -13,7 +13,7 @@ pip3 install -r kosaka.txt
 ```
 - Installing the module "maachujdo"
 ```bash 
-python3 -m pip install -i https://test.pypi.org/simple/ maachujdo
+python -m pip install -i https://test.pypi.org/simple/ maachujdo
 ```
 - test
 ```bash 
