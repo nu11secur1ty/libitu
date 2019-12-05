@@ -11,7 +11,7 @@
 ```bash
 pip3 install -r kosaka.txt
 ```
-- Installing the module "maachujdo"
+- Installing the module "shtaklatanemoosaizmuknesh"
 ```bash 
 python -m pip install -i https://test.pypi.org/simple/ shtaklatanemoosaizmuknesh
 ```
