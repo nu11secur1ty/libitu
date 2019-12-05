@@ -23,7 +23,7 @@ python
 - or 
 ```python
 #!/usr/bin/python3
-from maachujdo import kusupraishchesaneebesh
+from shtaklatanemoosaizmuknesh import shtaklatanemoosaizmuknesh
 print("Yeah you are a samurai ;)")
 ```
 - then
