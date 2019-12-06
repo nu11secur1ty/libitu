@@ -15,6 +15,18 @@
 ```bash
 pip3 install -r kosaka.txt
 ```
+***`NOTE:`***
+- Change the path of the pip3 env to pip into a `bin` directory
+  it depends from where is your already installed pip3!
+  
+- `Check`
+```bash
+whereis pip3
+```
+- Softlinking
+```bash
+ln -s /usr/bin/pip3 /usr/bin/pip
+```
 - Installing the module "shtaklatanemoosaizmuknesh"
 ```bash 
 python -m pip install -i https://test.pypi.org/simple/ shtaklatanemoosaizmuknesh
