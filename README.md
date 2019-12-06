@@ -23,7 +23,7 @@ pip3 install -r kosaka.txt
 ```bash
 whereis pip3
 ```
-- Softlinking
+- Soft link
 ```bash
 ln -s /usr/bin/pip3 /usr/bin/pip
 ```
