@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 # Source:
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/PYPI.png)](https://test.pypi.org/project/shtaklatanemoosaizmuknesh/)
 
-# Read: 
+# Read:[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/python-2-end-of-life-b.png)](https://www.kali.org/news/python-2-end-of-life/)
 
 # Have fun ;)
 
