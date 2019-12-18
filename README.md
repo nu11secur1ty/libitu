@@ -133,5 +133,5 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 # Read:[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/python-2-end-of-life-b.png)](https://www.kali.org/news/python-2-end-of-life/)
 
-# BR ***nu11secu1rty:***[![]()]()
+# BR ***nu11secu1rty:***[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/nu11secur1ty.png)](https://www.nu11secur1ty.com/)
 
