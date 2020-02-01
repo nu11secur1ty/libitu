@@ -1,4 +1,4 @@
-# Shtaklatanemoosaizmuknesh Python 2.7.17
+# Shtaklatanemoosaizmuknesh Python 3.7.6
 
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)](https://www.youtube.com/watch?v=XwyjOr6j_Og)
 
