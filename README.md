@@ -1,4 +1,4 @@
-# Shtaklatanemoosaizmuknesh Python 2.7.17
+# Shtaklataqku Python 3.7.6
 
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)](https://www.youtube.com/watch?v=XwyjOr6j_Og)
 
@@ -6,7 +6,7 @@
 # Shtaklatanemoosaizmuknesh
 #########################################
 #                                       #
-# For Kali Linux 2020.x > Python 2.7.17 #
+# For Kali Linux 2020.x > Python 3.7.6  #
 #                                       #
 #########################################
 
@@ -20,7 +20,7 @@ apt install python3-pip
 pip3 install -r kosaka.txt
 ```
 
-- Installing the module "shtaklatanemoosaizmuknesh"
+- Installing the module "shtaklataqku"
 -  -  If you are not changing the path environment of pip3
 
 # STEPS NOTE: 
@@ -39,21 +39,21 @@ rm /usr/bin/pip
 ln -s /usr/bin/pip3 /usr/bin/pip
 ```
 
-- Installing the module "shtaklatanemoosaizmuknesh"
+- Installing the module "shtaklataqku"
 
 ```bash 
-pip install shtaklatanemoosaizmuknesh
+pip install shtaklataqku
 ```
 - test
 ```bash 
 python3
->>> from shtaklatanemoosaizmuknesh import shtaklatanemoosaizmuknesh
+>>> from shtaklataqku import shtaklata
 ```
 - or 
 
 ```python
 #!/usr/bin/python3
-from shtaklatanemoosaizmuknesh import shtaklatanemoosaizmuknesh
+from shtaklataqku import shtaklata
 print("Yeah you are a samurai ;)")
 ```
 - then
