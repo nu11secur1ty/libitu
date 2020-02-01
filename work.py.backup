@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # by nu11secur1ty 2019
 from scapy.all import *
 from scapy.error import Scapy_Exception
