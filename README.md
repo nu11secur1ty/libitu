@@ -18,10 +18,8 @@ pip3 install libitu
 ```
 - Installing the module "libitu"
 -  -  If you are not changing the path environment of pip3
-
-```bash 
-pip install libitu
-```
+      you can do this like this way:
+      
 # NOTE: 
 
 - pip3 setup path environment
@@ -30,6 +28,7 @@ pip install libitu
 ```bash
 whereis pip3
 ```
+
 -  make a soft link to use pip3 by default
 
 ```bash
@@ -69,6 +68,7 @@ python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 # Uninstall the module
 
 ```bash
+pip uninstall libitu
 pip3 uninstall libitu
 ```
 ---------------------------------------------------------
