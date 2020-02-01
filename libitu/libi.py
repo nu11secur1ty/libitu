@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# nu11secur1ty 20202 for Kali Linux 2020.x
+# nu11secur1ty 2020 for Kali Linux 2020.x
 
 from scapy.all import *
 from scapy.layers.http import HTTPRequest # import HTTP packet
