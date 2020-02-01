@@ -59,9 +59,9 @@ print("Yeah you are a samurai ;)")
 - then
 
 ```bash
-git clone https://github.com/nu11secur1ty/maachujdo.git
+git clone https://github.com/nu11secur1ty/shtaklataqku.git
 
-cd maachujdo/maachujdo_module/
+cd shtaklataqku/
 
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
