@@ -61,18 +61,18 @@ print("Yeah you are a samurai ;)")
 ```bash
 git clone https://github.com/nu11secur1ty/shtaklataqku.git
 
-cd shtaklataqku/
+cd shtaklataqku/arp_spoof_tool
 
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
 
 # Uninstall the module
 ```bash
-pip uninstall shtaklatanemoosaizmuknesh
+pip uninstall shtaklataqku
 ```
 ---------------------------------------------------------
 - link:
-`https://pypi.org/project/shtaklatanemoosaizmuknesh/`
+`https://pypi.org/project/shtaklataqku/`
 
 
 -----------------------------------------------------------
