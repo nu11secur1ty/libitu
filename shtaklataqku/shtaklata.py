@@ -2,4 +2,4 @@
 # by nu11secur1ty 
 
 import os
-run = os.system("python3 shtaklatanemoosaizmuknesh.py --show-raw ")
+run = os.system("python3 shtaklatamoo.py --show-raw ")
