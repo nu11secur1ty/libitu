@@ -1,8 +1,3 @@
-# Shtaklataqku Python 3.7.6
-
-[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)](https://www.youtube.com/watch?v=XwyjOr6j_Og)
-
---------------------------------------------------------------------------------------------------
 # Shtaklataqku
 #########################################
 #                                       #
@@ -61,7 +56,7 @@ print("Yeah you are a samurai ;)")
 ```bash
 git clone https://github.com/nu11secur1ty/shtaklataqku.git
 
-cd shtaklataqku/arp_spoof_tool
+cd shtaklataqku/arp_spoof_tool/
 
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
@@ -126,16 +121,6 @@ This is the point of SSL, to prevent this kind of unauthorized snooping. To auth
 
 https://en.wikipedia.org/wiki/Transport_Layer_Security
 
---------------------------------------------------------------------------------------------------
+# Have fun ;)
 
-# understanding of `scapy`:
-[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/isakmp_dump.png)](https://scapy.readthedocs.io/en/latest/usage.html)
-
-
-# Source:
-[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/PYPI.png)](https://pypi.org/project/shtaklatanemoosaizmuknesh/)
-
-# Read:[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/python-2-end-of-life-b.png)](https://www.kali.org/news/python-2-end-of-life/)
-
-# BR ***nu11secu1rty:***[![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/nu11secur1ty.png)](https://www.nu11secur1ty.com/)
 
