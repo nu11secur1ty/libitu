@@ -3,7 +3,7 @@
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)](https://www.youtube.com/watch?v=XwyjOr6j_Og)
 
 --------------------------------------------------------------------------------------------------
-# Shtaklatanemoosaizmuknesh
+# Shtaklataqku
 #########################################
 #                                       #
 # For Kali Linux 2020.x > Python 3.7.6  #
