@@ -5,9 +5,11 @@ from scapy.all import *
 from scapy.layers.http import HTTPRequest # import HTTP packet
 from colorama import init, Fore
 import os
+
 # initialize colorama
 init()
-# define colors
+
+# colors
 GREEN = Fore.GREEN
 RED   = Fore.RED
 RESET = Fore.RESET

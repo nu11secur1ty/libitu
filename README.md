@@ -1,24 +1,28 @@
-# Shtaklataqku
-#########################################
-#                                       #
-# For Kali Linux 2020.x > Python 3.7.6  #
-#                                       #
-#########################################
+# Libitu
+########################################
+#                                      #
+# For Kali Linux 2020.x > Python 3.7.6 #
+#                                      #
+########################################
 
 
 - Need packages
 
-~apt install python-pip~
-
 ```bash
-apt install python3-pip
+git clone https://github.com/nu11secur1ty/libitu
+cd libitu
 pip3 install -r kosaka.txt
-```
 
-- Installing the module "shtaklataqku"
+# installing the module
+pip3 install libitu
+```
+- Installing the module "libitu"
 -  -  If you are not changing the path environment of pip3
 
-# STEPS NOTE: 
+```bash 
+pip install libitu
+```
+# NOTE: 
 
 - pip3 setup path environment
 -  -  find package
@@ -29,46 +33,53 @@ whereis pip3
 -  make a soft link to use pip3 by default
 
 ```bash
-# pip3
-rm /usr/bin/pip
 ln -s /usr/bin/pip3 /usr/bin/pip
 ```
 
-- Installing the module "shtaklataqku"
+- Then you can use the command to install libitu
+
+```bash
+pip install libitu
+```
+################################################
+
+- test
 
 ```bash 
-pip install shtaklataqku
-```
-- test
-```bash 
 python3
->>> from shtaklataqku import shtaklata
+>>>from libitu import libitero
 ```
 - or 
 
 ```python
 #!/usr/bin/python3
-from shtaklataqku import shtaklata
+from libitu import libitero
 print("Yeah you are a samurai ;)")
 ```
 - then
 
 ```bash
-git clone https://github.com/nu11secur1ty/shtaklataqku.git
+git clone https://github.com/nu11secur1ty/libitu.git
 
-cd shtaklataqku/arp_spoof_tool/
+cd libitu/arp_spoof_tool/
 
 python3 nakokrujen.py -t 0.0.0.0>target -g 0.0.0.0>gateway
 ```
 
 # Uninstall the module
+
 ```bash
-pip uninstall shtaklataqku
+pip3 uninstall libitu
 ```
 ---------------------------------------------------------
-- link:
-`https://pypi.org/project/shtaklataqku/`
+- link test:
 
+`https://test.pypi.org/project/libitu/`
+
+
+- link 
+
+`https://pypi.org/project/libitu/`
 
 -----------------------------------------------------------
 
@@ -122,5 +133,4 @@ This is the point of SSL, to prevent this kind of unauthorized snooping. To auth
 https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 # Have fun ;)
-
 
