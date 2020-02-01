@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
         name='libitu',
-        version='1.1.3',
+        version='1.1.5',
         url='https://github.com/nu11secur1ty/libitu',
         author='Ventsislav Varbanovski @nu11secur1ty',
         author_email='venvaropt@gmail.com',
