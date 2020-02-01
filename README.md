@@ -1,4 +1,4 @@
-# Shtaklatanemoosaizmuknesh Python 3.7.6
+# Shtaklatanemoosaizmuknesh Python 2.7.17
 
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)](https://www.youtube.com/watch?v=XwyjOr6j_Og)
 
@@ -6,7 +6,7 @@
 # Shtaklatanemoosaizmuknesh
 #########################################
 #                                       #
-# For Kali Linux 2020.x > Python 3.7.6  #
+# For Kali Linux 2020.x > Python 2.7.17 #
 #                                       #
 #########################################
 
