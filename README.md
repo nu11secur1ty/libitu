@@ -2,47 +2,62 @@
 
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/sniff.jpg)](https://www.youtube.com/watch?v=XwyjOr6j_Og)
 
+--------------------------------------------------------------------------------------------------
+# Shtaklatanemoosaizmuknesh
 #########################################
 #                                       #
-# For Kali Linux 2019.4 > Python 2.7.17 #
+# For Kali Linux 2020.x > Python 3.7.6  #
 #                                       #
 #########################################
 
-------------------------------------------------------------------------------
 
 - Need packages
 
+~apt install python-pip~
+
 ```bash
+apt install python3-pip
 pip3 install -r kosaka.txt
 ```
-***`NOTE:`***
-- Change the path of the pip3 env to pip into a `bin` directory
-  it depends from where is your already installed pip3!
-  
-- `Check`
+
+- Installing the module "shtaklatanemoosaizmuknesh"
+-  -  If you are not changing the path environment of pip3
+
+# STEPS NOTE: 
+
+- pip3 setup path environment
+-  -  find package
+
 ```bash
 whereis pip3
 ```
-- Soft link
+-  make a soft link to use pip3 by default
+
 ```bash
+# pip3
+rm /usr/bin/pip
 ln -s /usr/bin/pip3 /usr/bin/pip
 ```
+
 - Installing the module "shtaklatanemoosaizmuknesh"
+
 ```bash 
-python -m pip install -i https://test.pypi.org/simple/ shtaklatanemoosaizmuknesh
+pip install shtaklatanemoosaizmuknesh
 ```
 - test
 ```bash 
-python
+python3
 >>> from shtaklatanemoosaizmuknesh import shtaklatanemoosaizmuknesh
 ```
 - or 
+
 ```python
 #!/usr/bin/python3
 from shtaklatanemoosaizmuknesh import shtaklatanemoosaizmuknesh
 print("Yeah you are a samurai ;)")
 ```
 - then
+
 ```bash
 git clone https://github.com/nu11secur1ty/maachujdo.git
 
@@ -57,23 +72,10 @@ pip uninstall shtaklatanemoosaizmuknesh
 ```
 ---------------------------------------------------------
 - link:
-`https://test.pypi.org/project/shtaklatanemoosaizmuknesh/`
+`https://pypi.org/project/shtaklatanemoosaizmuknesh/`
 
 
 -----------------------------------------------------------
-
-# NOTE!!!:
-`The dependencies are for Python3 but this module is using Python2 because I combined packages from Python 3 with Python 2. However, Python 2 can use packages from Python 3 without any problems when they are implementing in his own environment!`
-# WARNING!!!
-Do not use `pip` for this module, this is tested only on Kali Linux 2019.4. 
-This module is only for advanced users and his only for `penetration` testing in the `network`!
-
-- Do not do this anywhere in the network, if you decide to do it, you will do that on your own risk!
-
-BR ***nu11secur1ty***
-
------------------------------------------------------------------------------------
-
 
 # Understanding of Web Protocols - HTTP and HTTPS
 
@@ -123,6 +125,8 @@ Now, to save our data from such attacks, we need to encrypt that data.
 This is the point of SSL, to prevent this kind of unauthorized snooping. To authorize your proxy you need to tell the device to trust the proxy certificate, and tell the device clients to trust your certificate or use the devices private key, which it sounds like you don't have access to. For more information: 
 
 https://en.wikipedia.org/wiki/Transport_Layer_Security
+
+--------------------------------------------------------------------------------------------------
 
 # understanding of `scapy`:
 [![](https://github.com/nu11secur1ty/shtaklatanemoosaizmuknesh/blob/master/logo/isakmp_dump.png)](https://scapy.readthedocs.io/en/latest/usage.html)
