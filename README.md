@@ -53,6 +53,9 @@ python3
 ```python
 #!/usr/bin/python3
 from libitu import libitero
+"""
+So, this is the test starter of our libitu module
+"""
 print("Yeah you are a samurai ;)")
 ```
 - then
