@@ -1,11 +1,11 @@
-# Libitu
+# Libitu - - - 
+# Deprecated
 ########################################
 #                                      #
-# For Kali Linux 2020.2 > Python 3.8   #
+# For Kali Linux 2020.2 > Python 3.7   #
 #                                      #
 ########################################
 
-# Deprecated
 
 - Need packages
 
